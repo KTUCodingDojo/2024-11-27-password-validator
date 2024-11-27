@@ -8,6 +8,6 @@ We will be working on a kata from [codewars](https://www.codewars.com/kata/56a92
 
 ### Event Details
 
-📅 **Date**: September 30, 2024  
+📅 **Date**: November 27, 2024  
 📍 **Location**: Studentų g. 50
-🔗 [Facebook Event](https://www.facebook.com/events/548135124329398)
+🔗 [Facebook Event](https://www.facebook.com/events/877234624522023)
